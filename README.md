@@ -1,8 +1,12 @@
 ## Hi there 👋
 The name is Chantelle Oseni!
+
 I'm currently working on a project.
+
 I'm currently studying Software Engineering.
+
 I like reading and rollerskating.
+
 I hope one day to be a QA.
 <!--
 **ChantelleOseni/ChantelleOseni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
